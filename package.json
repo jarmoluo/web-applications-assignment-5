@@ -1,5 +1,5 @@
 {
-  "name": "express-generator-demo-1-routes",
+  "name": "express-tic-tac-toe",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -10,12 +10,13 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "express-validator": "6.2.0",
-    "http-errors": "~1.6.3",
+    "http-errors": "1.8.0",
+    "mongoose": "^5.10.13",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11"
   },
   "devDependencies": {
-    "nodemon": "1.18.4"
+    "nodemon": "^2.0.4"
   },
   "keywords": [],
   "description": ""
